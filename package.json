@@ -4,6 +4,7 @@
   "type": "module",
   "dependencies": {
     "@polymer/polymer": "3.5.2",
+    "@syncfusion/ej2-react-documenteditor": "^28.2.12",
     "@vaadin/bundles": "24.7.1",
     "@vaadin/common-frontend": "0.0.19",
     "@vaadin/polymer-legacy-adapter": "24.7.1",
@@ -85,7 +86,7 @@
       "workbox-core": "7.3.0",
       "workbox-precaching": "7.3.0"
     },
-    "hash": "45492b1b7298b15a429b43657e872572fe696eb0499802a234b6743768eb5105"
+    "hash": "573087600974127347795413133ba998dc22901cc7cd3389059a1c25782e97db"
   },
   "overrides": {
     "@vaadin/bundles": "$@vaadin/bundles",
@@ -105,6 +106,7 @@
     "proj4": "$proj4",
     "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
-    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles"
+    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles",
+    "@syncfusion/ej2-react-documenteditor": "$@syncfusion/ej2-react-documenteditor"
   }
 }
